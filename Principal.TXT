@@ -1,2 +1,2 @@
 Hola esto es una prueba de git
-prueba
+prueba principal
